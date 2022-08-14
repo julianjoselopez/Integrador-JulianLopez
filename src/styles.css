@@ -1,0 +1,45 @@
+.flexible {
+  display: flex;
+}
+
+.titulo2 {
+  text-align: center;
+}
+
+.listaCompras {
+  text-align: center;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+div {
+  border: aqua;
+}
+
+img {
+  width: 100%;
+}
+
+p {
+  text-align: justify;
+}
+
+li {
+  text-align: center;
+}
+
+#mercaderia {
+  width: 80px;
+}
+
+#pieDePagina {
+  text-align: center;
+  font-size: 12px;
+  color: red;
+}
+
+.carritoCompras {
+  text-align: center;
+}
